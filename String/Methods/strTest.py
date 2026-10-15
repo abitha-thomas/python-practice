@@ -1,0 +1,10 @@
+a= input("Enter characters :")
+
+print(a.isalpha())
+print(a.isdigit())
+print(a.isalnum())
+print(a.isalpha())
+print(a.isspace())
+print(a.isupper())
+print(a.islower())
+print(a.istitle())
